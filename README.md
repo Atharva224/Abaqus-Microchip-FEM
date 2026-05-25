@@ -87,4 +87,4 @@ Michael I. Okereke, Yuxiao Ling —
 
 ## License
 
-This project is shared for academic and educational purposes. If you use or reference this work, please credit the author and the Fraunhofer Institute for Solar Energy Systems ISE.
+This project is shared for academic and educational purposes. If you use or reference this work, please credit the author.
