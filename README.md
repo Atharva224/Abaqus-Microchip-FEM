@@ -1,6 +1,6 @@
 # Finite Element Simulation of a Microchip using Abaqus
 
-> FEM-based thermal analysis of Flip Chip technology with heat sink, performed at the **Fraunhofer Institute for Solar Energy Systems ISE**.
+> FEM-based thermal analysis of Flip Chip technology with heat sink.
 >
 > **Author:** Atharva Sinnarkar  
 > **Affiliation:** Friedrich-Alexander University of Erlangen-Nuremberg — MSc. Computational Engineering (Computational Materials Science)
